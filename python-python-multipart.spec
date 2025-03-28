@@ -13,6 +13,7 @@ BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:	python%{pyver}dist(hatchling)
 BuildRequires:	python%{pyver}dist(pytest)
 BuildRequires:	python%{pyver}dist(pluggy)
+BuildRequires:	python%{pyver}dist(pyyaml)
 
 BuildArch:	noarch
 
